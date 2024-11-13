@@ -19,13 +19,11 @@
 2. 使用Python設計一個量化交易策略，並使用歷史資料進行回測。
 
 ### week7作業-深度學習ANN、CNN
-作業1：使用 TensorFlow 或 PyTorch 實作類神經網路模型預測股票價格（TensorFlow 使用 Dense layer；PyTorch 使用 Linear layer）。
+1. 使用 TensorFlow 或 PyTorch 實作類神經網路模型預測股票價格（TensorFlow 使用 Dense layer；PyTorch 使用 Linear layer）。
 說明：使用收盤價或技術指標預測，預測N日後的股價。
-
-作業2：使用 TensorFlow 或 PyTorch 實作 CNN 捕捉 K 線趨勢，並預測股價漲跌（分類任務）。
+2. 使用 TensorFlow 或 PyTorch 實作 CNN 捕捉 K 線趨勢，並預測股價漲跌（分類任務）。
 說明：輸入一張 N 天的 K 線圖判斷未來價格可能漲或跌，label 方式可以使用技術指標輔助，例如：5日均線高於10日均線標註「漲」，5日均線低於10日均線標註「跌」。
 
 ### week9作業-時間序列 LSTM、Transformer
-作業1：使用 LSTM 模型預測股票未來價格，自訂窗口大小，並分析預測效果。
-作業2：
-使用 Transformer 模型預測股價漲跌，自訂窗口大小，並分析預測結果。
+1. 使用 LSTM 模型預測股票未來價格，自訂窗口大小，並分析預測效果。
+2. 使用 Transformer 模型預測股價漲跌，自訂窗口大小，並分析預測結果。
