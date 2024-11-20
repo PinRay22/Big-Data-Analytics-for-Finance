@@ -27,3 +27,8 @@
 ### week9作業-時間序列 LSTM、Transformer
 1. 使用 LSTM 模型預測股票未來價格，自訂窗口大小，並分析預測效果。
 2. 使用 Transformer 模型預測股價漲跌，自訂窗口大小，並分析預測結果。
+
+### week10作業- 
+1. 使用 Hugging Face 框架建立 BERT 模型，針對金融領域文本進行情緒分析訓練。
+2 .可使用以下提供的資料集，或選擇其他適合的金融文本資料集。
+3. 資料集網址：https://huggingface.co/datasets/takala/financial_phrasebank
