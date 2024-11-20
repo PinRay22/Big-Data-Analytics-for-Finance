@@ -30,5 +30,5 @@
 
 ### week10作業- 
 1. 使用 Hugging Face 框架建立 BERT 模型，針對金融領域文本進行情緒分析訓練。
-2 .可使用以下提供的資料集，或選擇其他適合的金融文本資料集。
+2. 可使用以下提供的資料集，或選擇其他適合的金融文本資料集。
 3. 資料集網址：https://huggingface.co/datasets/takala/financial_phrasebank
